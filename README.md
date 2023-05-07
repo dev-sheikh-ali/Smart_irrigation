@@ -18,7 +18,7 @@ Feel free to fork this repository to make your own version of the project , and 
 
 ## actual project
 
-![](https://imagizer.imageshack.com/img924/5089/9PWUUv.png
+![](https://imagizer.imageshack.com/img924/5089/9PWUUv.png)
 
 ## ⚙ Libraries used
 
